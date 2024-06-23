@@ -6,7 +6,7 @@
 
 194467f (Jun 23 2024 11:46:59) 1898e70afeacb758
  - The work on Direct Download Data has been completed (User can download mesurement directly device <-> Android)
- - Power consumption optimized 1 sms per day = 6 month uncharged work, with out sim(colect data to flash) aproximetly 1 Year without charging
+ - Power consumption optimized 1 sms per day = 6 month uncharged work, without sim(collect data to flash) aproximetly 1 Year without charging
  - measurement accuracy increased
  - Gsm signal strength added
  - Two Sms types added to Web UI
