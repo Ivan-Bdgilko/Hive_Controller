@@ -6,6 +6,7 @@
 
 Актуальна:  3.0.a7a0827(Sep 22 2024 12:12:29)a7377298cc60a196
 
+![Screenshot](./images/S1.jpg)![Screenshot](./images/S2.jpg)![Screenshot](./images/S4.jpg)![Screenshot](./images/S3.jpg)
 Поточний стан:
 
   Cуттево змінено інтерфейс, підхід та зовнішній вигляд.
