@@ -1,106 +1,109 @@
-### Як оновити?
-1. Скопіювати файл apiary.bin на micro sd-flash пристрою в папку /fm (якщо нема - створити)
-2. повернути флеш sd-flash до пристрою та перезавантажити його
-3. почекати 1-2 хвилини поки пристрій не вимкнеться сам (поки діодики не заспокояться)
-4. перезавантажити, знов придєднатися та перевірити версію нового ПЗ на головній сторінці (то з чим перевіряти низче)
-   
-### Мови: Обираються зміною прошивки  
+Language: [English](readme.md) | [Українська](readme.uk.md) | [Deutsch](readme.de.md)
 
-   Україньска: /apiary.bin 
+
+### How to update?
+1. Copy the apiary.bin file to the device micro sd-flash into the /fm folder (if it does not exist - create it)
+2. Return the sd-flash to the device and reboot it
+3. Wait 1-2 minutes until the device turns itself off (until the LEDs calm down)
+4. Reboot, reconnect, and check the new software version on the main page (what to compare with is below)
+   
+### Languages: Selected by changing the firmware  
+
+   Ukrainian: /apiary.bin 
 
    Polska: /Polska/apiary.bin 
 
    English: /eng/apiary.bin 
 
-  Переклад можна замовити *(умонвно безкоштовно)
+  Translation can be ordered *(conditionally free)
    
-Решта версій може бути актуалізована по даті хеш(цифри після дати) у локалізацій може відрізнятися
+The rest of the versions can be checked by date, the hash (digits after the date) may differ between localizations
 
-### Youtube інструкція тут: https://www.youtube.com/@BeeApiary 
-### Актуальна: 3.1.8dbce5e(Feb 21 2026 19:09:59)3c91e89cb3b208f5 - UK
+### Youtube instruction here: https://www.youtube.com/@BeeApiary 
+### Current: 3.1.8dbce5e(Feb 21 2026 19:09:59)3c91e89cb3b208f5 - UK
 ### Actual EN: 3.1.f114152(Feb 21 2026 20:11:44)53d98c5f0be40b1e - EN
-  - оновлення підтримки короткі номери 10 symb (Norway)
-  - підтримка номерів від 10-12 symb розширена
+  - update for support of short 10-symbol numbers (Norway)
+  - support for 10-12 symbol numbers expanded
   
-### Web інтерфейс виглядає так:
+### The Web interface looks like this:
 ![Screenshot](./images/S1.jpg)  ![Screenshot](./images/S2.jpg)  ![Screenshot](./images/S4.jpg)  ![Screenshot](./images/S3.jpg)
 
-### Щира подяка ui/ux дизайнеру Яцюку Олександру за дуже круту та професійну допомогу в розобці дізайну в скрутних Embedded умовах маленького девайсу.
+### Sincere thanks to UI/UX designer Oleksandr Yatsiuk for very cool and professional help in developing the design under difficult Embedded conditions of a small device.
 
-### Базовий напрямок пристрою або стратегія чи її відсутність )))
-Створити захищений (вуличний) вимірювальний пристрій для пасіки. В який би не будо потреби втручатися фізично тобто відкрити тільки раз для встановлення Sim картки. Виміри та налаштування пристрою доступні за   допомогою Web інтерфейсу, не потрібуючи його підключення до інтернету. За необхідності забрати з пристрою файли логування та файли з вимірами можливо використовуючи Wi-Fi, що теж легко зробити не втручаючись у пристрій, що зменшує ризик пошкодження пристрою за погодних умов та збільшує термін використання.
-Виміри автоматично потрапляють до Android пристрою безпосередньо без зберігання на сервері чи в хмарі. За необхідності синхронізації пристрій може використовувати доступ до інтернету, але тільки за власним бажанням користувача. Це виключає збір інформації навіть технічного характеру на користь третіх осіб. Питання синхронізації на даному етапі розглядаються як додаткові та не впливають на основні функції пристрою.
+### Basic direction of the device, or strategy, or the lack of it )))
+To create a protected (outdoor) measuring device for an apiary that would not require physical intervention, meaning it should be opened only once to install the SIM card. Measurements and device settings are available through the Web interface, without requiring the device to be connected to the internet. If necessary, log files and measurement files can be retrieved from the device using Wi-Fi, which is also easy to do without interfering with the device, reducing the risk of damage caused by weather conditions and increasing its service life.
+Measurements are automatically transferred directly to the Android device without being stored on a server or in the cloud. If synchronization is needed, the device can use internet access, but only at the user’s own request. This excludes the collection of information, even technical information, for the benefit of third parties. At this stage, synchronization issues are considered additional and do not affect the main functions of the device.
 
-Попердні зміни
+Previous changes
 
 
 3.1.891d578(Dec 23 2025 23:41:54)6dd3be766d6cdbe2
-  - автоматичне від'єднання від wi-fi при довгому з'єднані (економія батареї на випадок забутого з'єднані чи автоматичному приєднані андроїд пристроями)
+  - automatic disconnection from wi-fi during a long connection (battery saving in case of a forgotten connection or automatic connection by Android devices)
 
 3.1.5f89a8c(Nov 10 2025 23:09:31)6cc291686bfd9b62
-  - можливість міняти місцями Т1 та Т2 за допомогою налаштування temperature_twist ="true"
+  - ability to swap T1 and T2 using the temperature_twist ="true" setting
 
 3.1.67a4190(Aug 27 2025 21:37:53)e5da30ebfde9e0ca
-  - підтримка плат версії 1.3 
-  - споживання зменьшено, працюють до пів року на одному зар
+  - support for board version 1.3 
+  - power consumption reduced, works up to half a year on one char
 
 3.1.5f89a8c(Nov 10 2025 23:09:31)6cc291686bfd9b62
-  - можливість міняти місцями Т1 та Т2 за допомогою налаштування temperature_twist ="true"
+  - ability to swap T1 and T2 using the temperature_twist ="true" setting
 
 3.1.67a4190(Aug 27 2025 21:37:53)e5da30ebfde9e0ca
-  - підтримка плат версії 1.3 
-  - споживання зменьшено, працюють до пів року на одному заряді 
+  - support for board version 1.3 
+  - power consumption reduced, works up to half a year on one charge 
 
 3.1.c43b227(Jun  7 2025 21:19:08)f8d5376299daf03c
-  - додано ID пристрою до головної Web сторінки
-  - виправлено керування фільтрами  
+  - device ID added to the main Web page
+  - filter control fixed  
 
 3.1.a166b4b(May 29 2025 02:10:59)6b2d72175a18f4eb
-  - додані додаткові функції обробки помилок від GSM модему
-  - підготовка до нового релізу основної плати
-  - додано девайс номер до логів
-  - виправлено керування фільтрами
+  - additional functions for handling errors from the GSM modem added
+  - preparation for the new release of the main board
+  - device number added to logs
+  - filter control fixed
 
 3.1.a9d1231(May  8 2025 00:40:27)52889ef7f9993255
-  - мінорні правки в фоматі смс "Для людини"
-  - змінено розрахунок добової різниці для ціх смс
+  - minor fixes in the SMS format "For a human"
+  - calculation of the daily difference for these SMS changed
 
 3.1.a9b4fce(Apr 13 2025 13:25:24)081f88e5712295e4
-  - не значні правки в логуванні (не впливає на роботу)
+  - minor logging fixes (does not affect operation)
 
 3.1.65cc3fc(Mar 14 2025 19:18:21)e07791fb1ddc4e03
-  - додана можливість вводу номерів Евросоюзу
+  - ability to enter European Union numbers added
 
 3.1.6ca7c59(Feb 18 2025 00:26:28)0956163f27ccf77f
 
-- виправлена работа при нізких температурах з датчиками 18b20
+- fixed operation with 18b20 sensors at low temperatures
 
  3.1.99143ea(Feb 16 2025 21:18:35)f446b9c0068a7f9d 
 
-- виправлена іднікація при прямому під'єднані (блимає коли приєднаний телефон)
-- виправлена проблема багаторазового приєдннання
-- також проблема сінхрознізації через websocket 
+- fixed indication during direct connection (blinks when the phone is connected)
+- fixed repeated connection issue
+- also websocket synchronization issue 
 
 
 3.1.f046c00(Nov 2 2024 13:14:52)3d62778de6ff0162
 
-- збільшена оптімізація повідомлень та файлів (більше даних у одному повідомленні)
-- Додано ідентіфікатор пристрою, можливість інтеграції з новми інтерфесом АПК
-- додані додаткові функції з контролю за параметрами
-- можливі функції більш частого котролю за вимірами 
-- додані функції критичної температури за якою буде аварійне повідомлення (Інженерна інструкція) 
+- increased optimization of messages and files (more data in one message)
+- Device identifier added, possibility of integration with the new APK interface
+- additional functions for parameter control added
+- possible functions for more frequent measurement control 
+- critical temperature functions added, at which an emergency message will be sent (Engineering manual) 
 
 3.0.7c59145(Oct 10 2024 18:45:57)3b43dff7d46a649b
- - Додана можливість поточного зважування "на даху"
- - Або зважування в процессі догляду за контрольним
+ - Added the ability for current weighing "on the roof"
+ - Or weighing during inspection of the control hive
 
  3.0.2697b84(Oct 1 2024 13:57:31)d46406efcf49f828
-  - Додано підтримку більшого екрану 128х64 до існуючого 128х32
-  - Додоано можливість повороту зображення
+  - Support for a larger 128x64 screen added to the existing 128x32
+  - Image rotation option added
 
 3.0.a7a0827(Sep 22 2024 12:12:29)a7377298cc60a196
 
-  - Cуттево змінено інтерфейс, підхід та зовнішній вигляд.
+  - The interface, approach, and appearance have been significantly changed.
 
 2.7.02cdf8b(Sep  5 2024 16:55:22)485d2d57161f187e
 
@@ -139,16 +142,16 @@ de855fa (May 30 2024 22:33:57) 5b21a4d92a523e03
  - log cleanup for previous build
 
 b4bb02f (May 30 2024 12:23:10) db7d03899421ca68
- - оновлен GSM parser
+ - GSM parser updated
 
 d9e51a0(May 28 2024 23:01:14) aeed24708b394fbe
-- додаткова логіка при отправці СМС 
-- додаткові умови реініціалізації GSM при не доброму рівні сигналу
-- корегування показникив заряду
+- additional logic when sending SMS 
+- additional conditions for GSM reinitialization at a poor signal level
+- charge indicator correction
 
 fe703d2(May 14 2024 22:41:45) 781726e08db3d1ca
-- Додатково опитимізована економія живлення
-- Додано Oled 
-- Керування режимом охорони
-- Работа з Pir оновлена
-- Почато роботи в напрямку Direct Download Data
+- Power saving additionally optimized
+- Oled added 
+- Security mode control
+- Work with Pir updated
+- Work started in the Direct Download Data direction
