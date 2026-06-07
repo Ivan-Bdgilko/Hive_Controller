@@ -9,21 +9,23 @@ Language: [English](readme.md) | [Українська](readme.uk.md) | [Deutsch
    
 ### Sprachen: Werden durch Wechsel der Firmware ausgewählt  
 
-   Ukrainisch: /apiary.bin 
-
-   Polska: /Polska/apiary.bin 
-
-   English: /eng/apiary.bin 
+   Ukrainian: [Uk](build-uk/apiary.bin) 
+   Polska: [Pl](build-pl/apiary.bin)
+   English: [En](build-en/apiary.bin)
 
   Übersetzung kann bestellt werden *(bedingt kostenlos)
    
 Die übrigen Versionen können nach Datum aktualisiert werden, der Hash (Zahlen nach dem Datum) kann sich je nach Lokalisierung unterscheiden
 
 ### Youtube-Anleitung hier: https://www.youtube.com/@BeeApiary 
-### Aktuell: 3.1.8dbce5e(Feb 21 2026 19:09:59)3c91e89cb3b208f5 - UK
-### Actual EN: 3.1.f114152(Feb 21 2026 20:11:44)53d98c5f0be40b1e - EN
-  - Aktualisierung der Unterstützung kurzer Nummern mit 10 symb (Norway)
-  - Unterstützung für Nummern von 10-12 symb erweitert
+### Actual
+
+build-en version : 4.0.add6e3f-en
+build-pl version : 4.0.add6e3f-pl
+build-uk version : 4.0.add6e3f-uk
+
+  Geräte können jetzt über ein lokales Wi-Fi-Netzwerk ohne SIM-Karte betrieben werden
+
   
 ### Die Web-Oberfläche sieht so aus:
 ![Screenshot](./images/S1.jpg)  ![Screenshot](./images/S2.jpg)  ![Screenshot](./images/S4.jpg)  ![Screenshot](./images/S3.jpg)
@@ -36,6 +38,9 @@ Die Messungen gelangen automatisch direkt auf das Android-Gerät, ohne Speicheru
 
 Vorherige Änderungen
 
+3.1.f114152(Feb 21 2026 20:11:44)53d98c5f0be40b1e 
+  - Aktualisierung der Unterstützung kurzer Nummern mit 10 symb (Norway)
+  - Unterstützung für Nummern von 10-12 symb erweitert
 
 3.1.891d578(Dec 23 2025 23:41:54)6dd3be766d6cdbe2
   - automatische Trennung von wi-fi bei langer Verbindung (Batteriesparen für den Fall einer vergessenen Verbindung oder automatischen Verbindung durch Android-Geräte)

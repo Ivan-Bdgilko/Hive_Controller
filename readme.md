@@ -9,21 +9,22 @@ Language: [English](readme.md) | [Українська](readme.uk.md) | [Deutsch
    
 ### Languages: Selected by changing the firmware  
 
-   Ukrainian: /apiary.bin 
-
-   Polska: /Polska/apiary.bin 
-
-   English: /eng/apiary.bin 
+   Ukrainian: [Uk](build-uk/apiary.bin) 
+   Polska: [Pl](build-pl/apiary.bin)
+   English: [En](build-en/apiary.bin)
 
   Translation can be ordered *(conditionally free)
    
 The rest of the versions can be checked by date, the hash (digits after the date) may differ between localizations
 
 ### Youtube instruction here: https://www.youtube.com/@BeeApiary 
-### Current: 3.1.8dbce5e(Feb 21 2026 19:09:59)3c91e89cb3b208f5 - UK
-### Actual EN: 3.1.f114152(Feb 21 2026 20:11:44)53d98c5f0be40b1e - EN
-  - update for support of short 10-symbol numbers (Norway)
-  - support for 10-12 symbol numbers expanded
+### Actual
+
+build-en version : 4.0.add6e3f-en
+build-pl version : 4.0.add6e3f-pl
+build-uk version : 4.0.add6e3f-uk
+
+    Пристрої тепер можуть працювати через локальний Wi-Fi без SIM-карти
   
 ### The Web interface looks like this:
 ![Screenshot](./images/S1.jpg)  ![Screenshot](./images/S2.jpg)  ![Screenshot](./images/S4.jpg)  ![Screenshot](./images/S3.jpg)
@@ -35,6 +36,10 @@ To create a protected (outdoor) measuring device for an apiary that would not re
 Measurements are automatically transferred directly to the Android device without being stored on a server or in the cloud. If synchronization is needed, the device can use internet access, but only at the user’s own request. This excludes the collection of information, even technical information, for the benefit of third parties. At this stage, synchronization issues are considered additional and do not affect the main functions of the device.
 
 Previous changes
+
+3.1.f114152(Feb 21 2026 20:11:44)53d98c5f0be40b1e 
+  - update for support of short 10-symbol numbers (Norway)
+  - support for 10-12 symbol numbers expanded
 
 
 3.1.891d578(Dec 23 2025 23:41:54)6dd3be766d6cdbe2
