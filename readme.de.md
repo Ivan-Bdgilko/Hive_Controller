@@ -9,9 +9,17 @@ Language: [English](readme.md) | [Українська](readme.uk.md) | [Deutsch
    
 ### Sprachen: Werden durch Wechsel der Firmware ausgewählt  
 
-   Ukrainian: [Uk](build-uk/apiary.bin) 
-   Polska: [Pl](build-pl/apiary.bin)
-   English: [En](build-en/apiary.bin)
+  - English: [En](build-en/apiary.bin)
+
+  - Українська (Ukrainian): [Uk](build-uk/apiary.bin) 
+
+  - Polski (Polish): [Pl](build-pl/apiary.bin)
+
+  - Deutsch (German): [De](build-de/apiary.bin)
+
+  - Español (Spanish): [Es](build-es/apiary.bin)
+
+  - Français (French): [Fr](build-fr/apiary.bin)   
 
   Übersetzung kann bestellt werden *(bedingt kostenlos)
    
@@ -20,9 +28,17 @@ Die übrigen Versionen können nach Datum aktualisiert werden, der Hash (Zahlen 
 ### Youtube-Anleitung hier: https://www.youtube.com/@BeeApiary 
 ### Actual
 
-build-en version : 4.0.add6e3f-en
-build-pl version : 4.0.add6e3f-pl
-build-uk version : 4.0.add6e3f-uk
+  - build-de version : 4.0.da019e0-de 
+
+  - build-en version : 4.0.da019e0-en 
+
+  - build-es version : 4.0.da019e0-es 
+
+  - build-fr version : 4.0.da019e0-fr 
+
+  - build-pl version : 4.0.da019e0-pl 
+
+  - build-uk version : 4.0.da019e0-uk 
 
   Geräte können jetzt über ein lokales Wi-Fi-Netzwerk ohne SIM-Karte betrieben werden
 

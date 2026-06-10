@@ -9,12 +9,18 @@ Language: [English](readme.md) | [Українська](readme.uk.md) | [Deutsch
    
 ### Languages: Selected by changing the firmware  
 
-   English: [En](build-en/apiary.bin)
-   Українська (Ukrainian): [Uk](build-uk/apiary.bin) 
-   Polski (Polish): [Pl](build-pl/apiary.bin)
-   Deutsch (German):  [De](build-de/apiary.bin)
-   Español (Spanish): [Es](build-es/apiary.bin)
-   Français (French): [Fr](build-fr/apiary.bin)    
+  - English: [En](build-en/apiary.bin)
+
+  - Українська (Ukrainian): [Uk](build-uk/apiary.bin) 
+
+  - Polski (Polish): [Pl](build-pl/apiary.bin)
+
+  - Deutsch (German):  [De](build-de/apiary.bin)
+
+  - Español (Spanish): [Es](build-es/apiary.bin)
+
+  - Français (French): [Fr](build-fr/apiary.bin)   
+    
 
   Translation can be ordered *(conditionally free)
    
@@ -23,12 +29,17 @@ The rest of the versions can be checked by date, the hash (digits after the date
 ### Youtube instruction here: https://www.youtube.com/@BeeApiary 
 ### Actual
 
-build-de version : 4.0.da019e0-de
-build-en version : 4.0.da019e0-en
-build-es version : 4.0.da019e0-es
-build-fr version : 4.0.da019e0-fr
-build-pl version : 4.0.da019e0-pl
-build-uk version : 4.0.da019e0-uk
+  - build-de version : 4.0.da019e0-de
+
+  - build-en version : 4.0.da019e0-en
+
+  - build-es version : 4.0.da019e0-es
+
+  - build-fr version : 4.0.da019e0-fr
+
+  - build-pl version : 4.0.da019e0-pl
+
+  - build-uk version : 4.0.da019e0-uk
 
   Devices can now operate via local Wi-Fi without a SIM card
   
