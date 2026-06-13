@@ -30,18 +30,17 @@ Language: [English](readme.md) | [Українська](readme.uk.md) | [Deutsch
 
 ### Actual
 
-  - build-de version : 4.0.da019e0-de
+- build-de version : 4.0.fb14e16-de
 
-  - build-en version : 4.0.da019e0-en
+- build-en version : 4.0.fb14e16-en
 
-  - build-es version : 4.0.da019e0-es
+- build-es version : 4.0.fb14e16-es
 
-  - build-fr version : 4.0.da019e0-fr
+- build-fr version : 4.0.fb14e16-fr
 
-  - build-pl version : 4.0.da019e0-pl
+- build-pl version : 4.0.fb14e16-pl
 
-  - build-uk version : 4.0.da019e0-uk
-
+- build-uk version : 4.0.fb14e16-uk
 
   Пристрої тепер можуть працювати через локальний Wi-Fi без SIM-карти
   

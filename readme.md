@@ -29,17 +29,17 @@ The rest of the versions can be checked by date, the hash (digits after the date
 ### Youtube instruction here: https://www.youtube.com/@BeeApiary 
 ### Actual
 
-  - build-de version : 4.0.da019e0-de
+- build-de version : 4.0.fb14e16-de
 
-  - build-en version : 4.0.da019e0-en
+- build-en version : 4.0.fb14e16-en
 
-  - build-es version : 4.0.da019e0-es
+- build-es version : 4.0.fb14e16-es
 
-  - build-fr version : 4.0.da019e0-fr
+- build-fr version : 4.0.fb14e16-fr
 
-  - build-pl version : 4.0.da019e0-pl
+- build-pl version : 4.0.fb14e16-pl
 
-  - build-uk version : 4.0.da019e0-uk
+- build-uk version : 4.0.fb14e16-uk
 
   Devices can now operate via local Wi-Fi without a SIM card
   
