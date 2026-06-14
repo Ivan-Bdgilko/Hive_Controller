@@ -28,17 +28,17 @@ Die übrigen Versionen können nach Datum aktualisiert werden, der Hash (Zahlen 
 ### Youtube-Anleitung hier: https://www.youtube.com/@BeeApiary 
 ### Actual
 
-- build-de version : 4.0.fb14e16-de
+ - build-de version : 4.0.6108d0d-de
 
-- build-en version : 4.0.fb14e16-en
-
-- build-es version : 4.0.fb14e16-es
-
-- build-fr version : 4.0.fb14e16-fr
-
-- build-pl version : 4.0.fb14e16-pl
-
-- build-uk version : 4.0.fb14e16-uk
+ - build-en version : 4.0.6108d0d-en
+ 
+ - build-es version : 4.0.6108d0d-es
+ 
+ - build-fr version : 4.0.6108d0d-fr
+ 
+ - build-pl version : 4.0.6108d0d-pl
+ 
+ - build-uk version : 4.0.6108d0d-uk
 
   Geräte können jetzt über ein lokales Wi-Fi-Netzwerk ohne SIM-Karte betrieben werden
 
