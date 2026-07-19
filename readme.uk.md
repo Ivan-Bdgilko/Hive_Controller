@@ -30,19 +30,19 @@ Language: [English](readme.md) | [Українська](readme.uk.md) | [Deutsch
 
 ### Actual
 
- - build-de version : 4.0.6108d0d-de
+ - build-de version : 4.8.c96e0bc-de
 
- - build-en version : 4.0.6108d0d-en
+ - build-en version : 4.8.c96e0bc-en
  
- - build-es version : 4.0.6108d0d-es
+ - build-es version : 4.8.c96e0bc-es
  
- - build-fr version : 4.0.6108d0d-fr
+ - build-fr version : 4.8.c96e0bc-fr
  
- - build-pl version : 4.0.6108d0d-pl
+ - build-pl version : 4.8.c96e0bc-pl
  
- - build-uk version : 4.0.6108d0d-uk
+ - build-uk version : 4.8.c96e0bc-uk
 
-  Пристрої тепер можуть працювати через локальний Wi-Fi без SIM-карти
+  Виконано масштабну міграцію на нову бібліотечну базу зі значною оптимізацією продуктивності та енергоспоживання
   
 ### Web інтерфейс виглядає так:
 ![Screenshot](./images/S1.jpg)  ![Screenshot](./images/S2.jpg)  ![Screenshot](./images/S4.jpg)  ![Screenshot](./images/S3.jpg)
@@ -54,6 +54,9 @@ Language: [English](readme.md) | [Українська](readme.uk.md) | [Deutsch
 Виміри автоматично потрапляють до Android пристрою безпосередньо, без зберігання на сервері чи в хмарі. За необхідності синхронізації пристрій може використовувати доступ до інтернету, але тільки за власним бажанням користувача. Це виключає збір інформації навіть технічного характеру на користь третіх осіб. Питання синхронізації на даному етапі розглядаються як додаткові та не впливають на основні функції пристрою.
 
 Попередні зміни
+
+4.0.6108d0d-uk
+ - Пристрої тепер можуть працювати через локальний Wi-Fi без SIM-карти
 
 3.1.f114152(Feb 21 2026 20:11:44)53d98c5f0be40b1e
   - оновлення підтримки коротких номерів 10 symb (Norway)

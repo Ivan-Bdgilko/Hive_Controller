@@ -28,19 +28,19 @@ Die übrigen Versionen können nach Datum aktualisiert werden, der Hash (Zahlen 
 ### Youtube-Anleitung hier: https://www.youtube.com/@BeeApiary 
 ### Actual
 
- - build-de version : 4.0.6108d0d-de
+ - build-de version : 4.8.c96e0bc-de
 
- - build-en version : 4.0.6108d0d-en
+ - build-en version : 4.8.c96e0bc-en
  
- - build-es version : 4.0.6108d0d-es
+ - build-es version : 4.8.c96e0bc-es
  
- - build-fr version : 4.0.6108d0d-fr
+ - build-fr version : 4.8.c96e0bc-fr
  
- - build-pl version : 4.0.6108d0d-pl
+ - build-pl version : 4.8.c96e0bc-pl
  
- - build-uk version : 4.0.6108d0d-uk
+ - build-uk version : 4.8.c96e0bc-uk
 
-  Geräte können jetzt über ein lokales Wi-Fi-Netzwerk ohne SIM-Karte betrieben werden
+  Umfangreiche Migration auf eine neue Bibliotheksbasis mit deutlichen Optimierungen der Leistung und des Energieverbrauchs
 
   
 ### Die Web-Oberfläche sieht so aus:
@@ -53,6 +53,10 @@ Ein geschütztes (Outdoor-)Messgerät für den Bienenstand schaffen, bei dem kei
 Die Messungen gelangen automatisch direkt auf das Android-Gerät, ohne Speicherung auf einem Server oder in der Cloud. Bei Bedarf an Synchronisierung kann das Gerät Internetzugang verwenden, jedoch nur auf eigenen Wunsch des Benutzers. Das schließt die Sammlung von Informationen, selbst technischer Art, zugunsten Dritter aus. Fragen der Synchronisierung werden in dieser Phase als zusätzliche Funktionen betrachtet und beeinflussen die Hauptfunktionen des Geräts nicht.
 
 Vorherige Änderungen
+
+4.0.6108d0d-uk
+  - Geräte können jetzt über ein lokales Wi-Fi-Netzwerk ohne SIM-Karte betrieben werden
+
 
 3.1.f114152(Feb 21 2026 20:11:44)53d98c5f0be40b1e 
   - Aktualisierung der Unterstützung kurzer Nummern mit 10 symb (Norway)

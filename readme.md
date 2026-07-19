@@ -29,19 +29,19 @@ The rest of the versions can be checked by date, the hash (digits after the date
 ### Youtube instruction here: https://www.youtube.com/@BeeApiary 
 ### Actual
 
- - build-de version : 4.0.6108d0d-de
+ - build-de version : 4.8.c96e0bc-de
 
- - build-en version : 4.0.6108d0d-en
+ - build-en version : 4.8.c96e0bc-en
  
- - build-es version : 4.0.6108d0d-es
+ - build-es version : 4.8.c96e0bc-es
  
- - build-fr version : 4.0.6108d0d-fr
+ - build-fr version : 4.8.c96e0bc-fr
  
- - build-pl version : 4.0.6108d0d-pl
+ - build-pl version : 4.8.c96e0bc-pl
  
- - build-uk version : 4.0.6108d0d-uk
+ - build-uk version : 4.8.c96e0bc-uk
 
-  Devices can now operate via local Wi-Fi without a SIM card
+  Major migration to a new library base with significant performance and power consumption optimizations
   
 ### The Web interface looks like this:
 ![Screenshot](./images/S1.jpg)  ![Screenshot](./images/S2.jpg)  ![Screenshot](./images/S4.jpg)  ![Screenshot](./images/S3.jpg)
@@ -53,6 +53,9 @@ To create a protected (outdoor) measuring device for an apiary that would not re
 Measurements are automatically transferred directly to the Android device without being stored on a server or in the cloud. If synchronization is needed, the device can use internet access, but only at the user’s own request. This excludes the collection of information, even technical information, for the benefit of third parties. At this stage, synchronization issues are considered additional and do not affect the main functions of the device.
 
 Previous changes
+
+4.0.6108d0d-uk
+  - Devices can now operate via local Wi-Fi without a SIM card
 
 3.1.f114152(Feb 21 2026 20:11:44)53d98c5f0be40b1e 
   - update for support of short 10-symbol numbers (Norway)
