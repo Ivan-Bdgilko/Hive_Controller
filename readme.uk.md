@@ -30,17 +30,17 @@ Language: [English](readme.md) | [Українська](readme.uk.md) | [Deutsch
 
 ### Actual
 
- - build-de version : 4.8.c96e0bc-de
+- build-de version : 4.8.b4a9173-de
 
- - build-en version : 4.8.c96e0bc-en
- 
- - build-es version : 4.8.c96e0bc-es
- 
- - build-fr version : 4.8.c96e0bc-fr
- 
- - build-pl version : 4.8.c96e0bc-pl
- 
- - build-uk version : 4.8.c96e0bc-uk
+- build-en version : 4.8.b4a9173-en
+
+- build-es version : 4.8.b4a9173-es
+
+- build-fr version : 4.8.b4a9173-fr
+
+- build-pl version : 4.8.b4a9173-pl
+
+- build-uk version : 4.8.b4a9173-uk
 
   Виконано масштабну міграцію на нову бібліотечну базу зі значною оптимізацією продуктивності та енергоспоживання
   
