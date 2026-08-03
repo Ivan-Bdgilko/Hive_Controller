@@ -28,17 +28,17 @@ Die übrigen Versionen können nach Datum aktualisiert werden, der Hash (Zahlen 
 ### Youtube-Anleitung hier: https://www.youtube.com/@BeeApiary 
 ### Actual
 
-- build-de version : 4.8.b4a9173-de
+- build-de version : 4.8.0a9f5f8-de
 
-- build-en version : 4.8.b4a9173-en
+- build-en version : 4.8.0a9f5f8-en
 
-- build-es version : 4.8.b4a9173-es
+- build-es version : 4.8.0a9f5f8-es
 
-- build-fr version : 4.8.b4a9173-fr
+- build-fr version : 4.8.0a9f5f8-fr
 
-- build-pl version : 4.8.b4a9173-pl
+- build-pl version : 4.8.0a9f5f8-pl
 
-- build-uk version : 4.8.b4a9173-uk
+- build-uk version : 4.8.0a9f5f8-uk
 
   Umfangreiche Migration auf eine neue Bibliotheksbasis mit deutlichen Optimierungen der Leistung und des Energieverbrauchs
 
